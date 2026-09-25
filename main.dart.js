@@ -63617,7 +63617,7 @@ R(a){var s=this
 return A.aeP(s.YU(),B.i,A.eX(A.aeo(A.d([s.YW(),s.YV(),s.YT(),s.YX()],t.E),s.d,B.Ec),null,null))},
 YU(){var s=this,r=null,q=t.E
 return new A.uf(A.Ar(r,A.uT(A.d([A.a9E(!1,r,!0,A.fP("PROJYA",r,r,A.fQ(r,r,r,r,r,r,r,r,r,r,r,24,r,r,B.cU,r,r,!0,r,r,r,r,r,r,r,r)),r,!0,r,r,r,r,r,r,r,new A.a4V(s),r,r,r,r),A.fP("",r,r,r),A.uT(A.d([new A.i0(A.rT(B.kC,r,16),B.i,new A.a4W(s),r),new A.i0(A.rT(B.kD,r,16),B.i,new A.a4X(s),r),new A.i0(A.rT(B.hG,r,16),B.i,new A.a4Y(s),r)],q),B.a3,B.aj)],q),B.a3,B.eu),new A.eu(B.i,r,r,r,r,r,B.bi),r,r,B.kn,r),new A.M(1/0,80),r)},
-YW(){return A.eX(new A.ev(new A.a52(this,"      \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\n      \u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591                              \u2588\n      \u2588  > ANALYZING...                           \u2588\n      \u2588  > BUILDING...                              \u2588\n      \u2588  > DONE                                        \u2588\n      \u2588                                                      \u2588\n      \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\n          \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2588\u2588\u2591\u2591\n                           \u2588\u2588\u2588\u2588\u2588\u2588\n"),null),null,null)},
+YW(){return A.eX(new A.ev(new A.a52(this,"      \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\n      \u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591                           \u2588\n      \u2588  > ANALYZING...                       \u2588\n      \u2588  > BUILDING...                          \u2588\n      \u2588  > DONE                                   \u2588\n      \u2588                                                \u2588\n      \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\n          \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2588\u2588\u2591\u2591\n                         \u2588\u2588\u2588\u2588\u2588\u2588\n"),null),null,null)},
 YT(){var s=null
 return A.eX(A.h6(A.d([A.fP("About Page",s,s,s),A.ot(s,50,s),new A.dj(new A.a4O(this),"Home",s)],t.E),B.a3,B.bO,B.aA),s,s)},
 YV(){var s=null
@@ -63665,7 +63665,7 @@ $0(){},
 $S:6}
 A.a52.prototype={
 $1(a){var s=null,r=A.bL(a,B.cw,t.w).w,q=this.a,p=t.E
-return A.Ar(B.a1,A.h6(A.d([new A.hO(B.a1,s,s,new A.l5(A.fP(this.b,s,s,A.fQ(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,1,s,s,s,s,s,s)),s),s),B.HJ,B.kt,B.f8,B.zM,B.f8,A.uT(A.d([new A.dj(new A.a5_(q),"Blogs",s),B.f6,new A.dj(new A.a50(q),"About",s),B.f6,new A.dj(new A.a51(q),"Services",s)],p),B.a3,B.aj)],p),B.aE,B.bO,B.aA),s,s,s,s,r.a.a*0.8)},
+return A.Ar(B.a1,A.h6(A.d([new A.hO(B.a1,s,s,new A.l5(A.fP(this.b,s,s,A.fQ(s,s,s,s,s,s,s,s,s,s,s,8,s,s,s,s,s,!0,s,1,s,s,s,s,s,s)),s),s),B.HJ,B.kt,B.f8,B.zM,B.f8,A.uT(A.d([new A.dj(new A.a5_(q),"Blogs",s),B.f6,new A.dj(new A.a50(q),"About",s),B.f6,new A.dj(new A.a51(q),"Services",s)],p),B.a3,B.aj)],p),B.aE,B.bO,B.aA),s,s,s,s,r.a.a*0.8)},
 $S:402}
 A.a5_.prototype={
 $0(){this.a.d.kP(1)},
